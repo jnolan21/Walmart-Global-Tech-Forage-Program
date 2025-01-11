@@ -1,4 +1,4 @@
-Walmart USA Advanced Software Engineering Virtual Experience Program on Forage - June 2024
+Walmart USA Advanced Software Engineering Virtual Experience Program on Forage
 
 Completed the Advanced Software Engineering Job Simulation where I solved difficult technical projects for a variety of teams at Walmart.
 
